@@ -1,3 +1,5 @@
+# Neaktuální! Aktuální údaje jsou na Slacku v #announcements!
+
 ### Úvodní informace
 
 #### Redakční systém se nachází na adrese
